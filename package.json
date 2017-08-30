@@ -1,0 +1,19 @@
+{
+  "name": "@xinwenchao/apache-httpd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boat3471/apache-httpd.git"
+  },
+  "author": "wenchao.xin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boat3471/apache-httpd/issues"
+  },
+  "homepage": "https://github.com/boat3471/apache-httpd#readme"
+}
